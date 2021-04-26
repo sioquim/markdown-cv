@@ -70,6 +70,7 @@ __Web Developer (Part-time)__, Agora Ltd., Auckland
 
 - Extended and modified the existing Magento platform to support multi-store functionalities.
 
+
 `2013 - 2015`
 __Team Lead/Senior Web Developer__, Synacy Inc., Cebu City, Philippines
 
@@ -111,9 +112,7 @@ __Freelance__, Variety of companies
 
 `2015`
 __Postgraduate Diploma in Information Technology__, Whitireia Community Poly-
-technic, Auckland, New Zealand.
-
-- Awarded as Top Scholar. Data Mining and Business Intelligence, Cloud Computing, Network Security and Forensics
+technic, Auckland, New Zealand. *Awarded as Top Scholar. Data Mining and Business Intelligence, Cloud Computing, Network Security and Forensics.*
 
 `2006 - 2010`
 __BS Computer Engineering__, University of San Carlos, Cebu, Philippines
