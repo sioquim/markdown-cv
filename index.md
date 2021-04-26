@@ -4,7 +4,7 @@ title: Franco Sioquim
 ---
 # Franco D. Sioquim
 
-Customer delight and usability is what I love to focus on when working on a product. I am a software engineer with a wide spectrum of technologies and languages - from VHDL to Javascript. I’m passionate about web development and helping out teams through mentoring, knowledge of modern technologies, and problem-solving are the things.
+Customer delight and usability is what I love to focus on when building applications. I am a software engineer with a wide spectrum of technologies and languages - from VHDL to Javascript. I’m passionate about web development and helping out teams through mentoring, knowledge of modern technologies, and problem-solving.
 
 <div id="webaddress">
 <a href="francosioquim@gmail.com">francosioquim@gmail.com</a>
@@ -27,27 +27,24 @@ IoT, Assembly, VHDL, C++, C#, Java, MySQL, PostgreSQL, Matlab
 `2020 - Current`
 __Frontend Lead__, Equimentshare, Auckland
 
-- Architected and implemented a scalable web platform that dynamically loads an application with isolated dependencies on demand.
+- Architected and implemented a scalable web platform that loads applications with isolated dependencies on demand.
 
-- Used NextJS to for client-side and server-side rendering with serverless endpoints for authentication and user management. Implemented service-workers for a better offline experience and PWA.
+- Used NextJS to for client-side and server-side rendering with serverless authentication endpoints. Also added service-workers for a better offline experience and PWA.
 
-- Created a component, pattern, and utility libraries stored in a repository so applications can share their UI and data layers.
+- Created a component, pattern, and utility libraries so applications can share UI and data layers.
 
-- Used Gitlab pipelines for CI/CD and deploy Frontend monorepos to Vercel as a separate project.
+- Configured Gitlab pipelines to deploy multiple Frontend apps to Vercel.
 
 - Conducted Frontend workshops to learn latest React from scratch.
 
 `2019 - 2020`
 __Analyst Programmer (Contract)__, ANZ, Auckland
 
-- Improved Internet Banking Frontend CI/CD build by 8-10 minutes.
+- Improved Internet Banking CI/CD pipeline speed by 8-10 minutes.
 
 - Responsible for client-side app security for Internet Banking.
 
-- Worked on accessibility to make applications compatible with screen readers and compliant with WCAG.
-
-- Added a new feature to the client application to simplify the home loan renewal process
-
+- Worked on accessibility to make applications compatible with screen readers and compliant with WCAG 2.0.
 
 `2016 - 2019`
 __Senior Frontend Developer/Project Tech Lead__, Roam Ltd., Auckland
@@ -55,8 +52,6 @@ __Senior Frontend Developer/Project Tech Lead__, Roam Ltd., Auckland
 - Responsible for sharing best practices, recommending technologies and frameworks, and mentorship for the Frontend practice.
 
 - Created project boilerplates with built-in features for routing, state management, theming, and CI/CD configurations.
-
-- Worked directly for customers off-site to solve problems together with their development teams.
 
 - Architected a backend solution for a rewards system and implemented it using Typescript, a NodeJS framework, and PostgresSQL.
 
