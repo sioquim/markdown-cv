@@ -4,8 +4,7 @@ title: Franco Sioquim's CV
 ---
 # Franco D. Sioquim
 
-Customer delight and usability is what I love to focus when working on a product. 
-I am a software engineer with a wide spectrum of technologies and languages - from VHDL to Javascript. I'm passionate about web development and helping out teams through mentoring, knowledge on modern technologies, and problem solving are the things. 
+Customer delight and usability is what I love to focus on when working on a product. I am a software engineer with a wide spectrum of technologies and languages - from VHDL to Javascript. I’m passionate about web development and helping out teams through mentoring, knowledge of modern technologies, and problem-solving are the things.
 
 <div id="webaddress">
 <a href="francosioquim@gmail.com">francosioquim@gmail.com</a>
@@ -32,7 +31,7 @@ __Frontend Lead__, Equimentshare, Auckland
 
 - Used NextJS to for client-side and server-side rendering with serverless endpoints for authentication and user management. Implemented service-workers for a better offline experience and PWA.
 
-- Created a component, pattern, and utilities library stored in a repository so applications can share their UI and data layers.
+- Created a component, pattern, and utility libraries stored in a repository so applications can share their UI and data layers.
 
 - Used Gitlab pipelines for CI/CD and deploy Frontend monorepos to Vercel as a separate project.
 
@@ -55,13 +54,13 @@ __Senior Frontend Developer/Project Tech Lead__, Roam Ltd., Auckland
 
 - Responsible for sharing best practices, recommending technologies and frameworks, and mentorship for the Frontend practice.
 
-- Created project builerplates with built-in features for routing, state management, theming, and CI/CD configurations.
+- Created project boilerplates with built-in features for routing, state management, theming, and CI/CD configurations.
 
 - Worked directly for customers off-site to solve problems together with their development teams.
 
-- Architected a backend solution for a reward-system and implemented it using Typescript, a NodeJS framework, and PostgresSQL.
+- Architected a backend solution for a rewards system and implemented it using Typescript, a NodeJS framework, and PostgresSQL.
 
-- Created an end-to-end process to covert UI design into testable API endpoints, achive seamless transition between mocking and actual data, and maintains great developer experience.
+- Created an end-to-end process to covert UI design into testable API endpoints, achieve seamless transition between mocking and actual data, and maintains great developer experience.
 
 - Implemented a prototype project using LoraWAN to display sensor data on a web app through an IoT service
 
@@ -75,16 +74,16 @@ __Web Developer (Part-time)__, Agora Ltd., Auckland
 `2013 - 2015`
 __Team Lead/Senior Web Developer__, Synacy Inc., Cebu City, Philippines
 
-- Brain stormed with product owners to come up with design using modern web technologies.
+- Brainstormed with product owners to come up with a design using modern web technologies.
 
-- Managed a team of developers, designers, and copywriter to build and maintain websites with in-house Wordpress plugins and themes. Responsible for HR tasks such as hiring and team reviews.
+- Managed a team of developers, designers, and copywriter to build and maintain websites with in-house WordPress plugins and themes. Responsible for HR tasks such as hiring and team reviews.
 
 - Developed a web app using AngularJS to manage pluggable services and dashboard with personalised branding options.
 
 `2012 - 2013`
 __Senior Web Developer/Manager__, Sprasia Inc. (renamed to Sprobe Inc.), Cebu City, Philippines
 
-- Led and mentored teams of junior developers to build applications for the Japan market.
+- Led and mentored teams of junior developers to build applications for the Japanese market.
 
 - Architected multilingual applications using PHP frameworks and AngualarJS
 
@@ -95,7 +94,7 @@ __Hardware Development Engineer__, NCR Corporation, Cebu City, Philippines
 
 - Create schematic designs and PCB layouts for custom-built devices to test prototype products.
 
-- Wrote a firmware for an LCD display using Assembly and C.
+- Wrote firmware for an LCD display using Assembly and C.
 
 - Ran a workshop to help a team learn FPGA and VHDL from scratch.
 
@@ -106,7 +105,7 @@ __Freelance__, Variety of companies
 
 - Created specification documents for telemetry, motor controller, and sensor circuites.
 
-- Developed and maintaind Wordpress and Magento websites.
+- Developed and maintaind WordPress and Magento websites.
 
 
 ## Education
