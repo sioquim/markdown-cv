@@ -74,29 +74,36 @@ __Web Developer (Part-time)__, Agora Ltd., Auckland
 __Team Lead/Senior Web Developer__, Synacy Inc., Cebu City, Philippines
 
 - Brain stormed with product owners to come up with design using modern web technologies.
+
 - Managed a team of developers, designers, and copywriter to build and maintain websites with in-house Wordpress plugins and themes. Responsible for HR tasks such as hiring and team reviews.
+
 - Developed a web app using AngularJS to manage pluggable services and dashboard with personalised branding options.
 
 `2012 - 2013`
 __Senior Web Developer/Manager__, Sprasia Inc. (renamed to Sprobe Inc.), Cebu City, Philippines
 
 - Led and mentored teams of junior developers to build applications for the Japan market.
-- Architected multilingual applications using PHP frameworks and AngualarJS
-- Responsible for project cost estimates, reporting, documentation, and creating test plans.
 
+- Architected multilingual applications using PHP frameworks and AngualarJS
+
+- Responsible for project cost estimates, reporting, documentation, and creating test plans.
 
 `2010 - 2012`
 __Hardware Development Engineer__, NCR Corporation, Cebu City, Philippines
 
 - Create schematic designs and PCB layouts for custom-built devices to test prototype products.
+
 - Wrote a firmware for an LCD display using Assembly and C.
+
 - Ran a workshop to help a team learn FPGA and VHDL from scratch.
 
 `2011 - 2013`
 __Freelance__, Variety of companies
 
 - Design ROV control and sensor systems
+
 - Created specification documents for telemetry, motor controller, and sensor circuites.
+
 - Developed and maintaind Wordpress and Magento websites.
 
 
