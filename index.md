@@ -70,6 +70,7 @@ __Web Developer (Part-time)__, Agora Ltd., Auckland
 
 - Extended and modified the existing Magento platform to support multi-store functionalities.
 
+- Responsible for setting up analytics and tracking user journey for each store and provide actionable insights to customers.
 
 `2013 - 2015`
 __Team Lead/Senior Web Developer__, Synacy Inc., Cebu City, Philippines
