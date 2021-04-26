@@ -113,15 +113,12 @@ __Freelance__, Variety of companies
 __Postgraduate Diploma in Information Technology__, Whitireia Community Poly-
 technic, Auckland, New Zealand.
 
-- __Awarded as Top Scholar__. Data Mining and Business Intelligence, Cloud Com-
-puting, Network Security and Forensics
+- Awarded as Top Scholar. Data Mining and Business Intelligence, Cloud Computing, Network Security and Forensics
 
 `2006 - 2010`
 __BS Computer Engineering__, University of San Carlos, Cebu, Philippines
 
 - Major in Digital Systems Design
-
-
 
 ## Publications
 
