@@ -130,7 +130,8 @@ h1 {
 h1+p {
 	/*subtitle*/
 	font-style: italic;
-	font-size: 110%;
+	font-size: 100%;
+    margin-top: .75em;
 }
 
 h2 {
