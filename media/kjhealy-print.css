@@ -71,10 +71,10 @@ p {
 
 code {
 	font: normal normal;
-	font-size: 60%;
+	font-size: 80%;
 	/*line-height: 1em;*/
 	font-family: Menlo,monospace,sans-serif;
-	color: #ccc;
+	color: #777;
 }
 
 p code {
@@ -129,12 +129,13 @@ h1 {
 h1+p { 
 	/*subtitle*/
 	font-style: italic;
-	font-size: 110%;
+	font-size: 100%;
+	margin-top: 1.2em;
 }
 
 h2 {
 	font-size: 1.1em;
-	color: #a00;
+	color: #26b63b;
 	margin-top: 2em;
 	position: relative;
 	top: 1.2em;

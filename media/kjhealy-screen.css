@@ -71,7 +71,7 @@ p {
 
 code {
 	font: normal normal;
-	font-size: 60%;
+	font-size: 80%;
 	/*line-height: 1em;*/
 	font-family: Menlo,monospace,sans-serif;
 	color: #777;
@@ -130,7 +130,7 @@ h1+p {
 	/*subtitle*/
 	font-style: italic;
 	font-size: 100%;
-	margin-top: 16px;
+	margin-top: 1.2em;
 }
 
 h2 {

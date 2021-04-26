@@ -25,7 +25,7 @@ IoT, Assembly, VHDL, C++, C#, Java, MySQL, PostgreSQL, Matlab
 
 ## Experience
 
-`2020 - Present`
+`2020 - Current`
 __Frontend Lead__, Equimentshare, Auckland
 
 - Architected and implemented a scalable web platform that dynamically loads an application with isolated dependencies on demand.
@@ -38,7 +38,7 @@ __Frontend Lead__, Equimentshare, Auckland
 
 - Conducted Frontend workshops to learn latest React from scratch.
 
-`2019 - Present`
+`2019 - 2020`
 __Analyst Programmer (Contract)__, ANZ, Auckland
 
 - Improved Internet Banking Frontend CI/CD build by 8-10 minutes.
