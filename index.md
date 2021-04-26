@@ -5,10 +5,7 @@ title: Franco Sioquim's CV
 # Franco D. Sioquim
 
 Customer delight and usability is what I love to focus when working on a product. 
-I am a software engineer with a wide spectrum of technologies and languages - from VHDL to Javascript.
-
-Web development and helping out teams through mentoring, knowledge on modern technologies, and problem solving are the things I'm passionate about. 
-
+I am a software engineer with a wide spectrum of technologies and languages - from VHDL to Javascript. I'm passionate about web development and helping out teams through mentoring, knowledge on modern technologies, and problem solving are the things. 
 
 <div id="webaddress">
 <a href="francosioquim@gmail.com">francosioquim@gmail.com</a>
@@ -18,13 +15,12 @@ Web development and helping out teams through mentoring, knowledge on modern tec
 
 ## Skills
 
-`Web Development`
+`Web`
  __Javascript__, __Typescript__, React, NextJS, Jamstack, NodeJS, GraphQL, AngularJS, VueJS, AWS, Serverless
 
-`Industry Knowledge`
- Hardware development, embedded systems, project management
 
-`Other Technologies` 
+`Others` 
+ Hardware development, embedded systems, project management,
 IoT, Assembly, VHDL, C++, C#, Java, MySQL, PostgreSQL, Matlab
 
 ## Experience
