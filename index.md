@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Franco Sioquim's CV
+title: Franco Sioquim
 ---
 # Franco D. Sioquim
 
