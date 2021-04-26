@@ -100,7 +100,7 @@ __Freelance__, Variety of companies
 
 - Created specification documents for telemetry, motor controller, and sensor circuites.
 
-- Developed and maintaind WordPress and Magento websites.
+- Developed and maintained WordPress and Magento websites.
 
 
 ## Education
