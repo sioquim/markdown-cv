@@ -24,8 +24,15 @@ IoT, Assembly, VHDL, C++, C#, Java, MySQL, PostgreSQL, Matlab
 
 ## Experience
 
-`2020 - Current`
-__Frontend Lead__, Equimentshare, Auckland
+`2021 - Current`
+__Techinical Lead__, Equimentshare, USA
+
+- Designed the backend infrastructe using Serverless architecture
+
+- Provided a highly efficient development environment and workflow for Frontend and Backend engineers so they can deploy to production on their first day
+
+`2020 - 2021`
+__Frontend Lead__, Equimentshare, USA
 
 - Architected and implemented a scalable web platform that loads applications with isolated dependencies on demand.
 
