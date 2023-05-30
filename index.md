@@ -4,7 +4,8 @@ title: Franco Sioquim
 ---
 # Franco D. Sioquim
 
-Customer delight and usability is what I love to focus on when building applications. I am a software engineer with a wide spectrum of technologies and languages - from VHDL to Javascript. I’m passionate about web development and helping out teams through mentoring, knowledge of modern technologies, and problem-solving.
+I'm a skilled software engineer who loves creating user-friendly experiences that customers really enjoy. My career began in electronics engineering and over the years, I've grown into a versatile role in software development. I'm always learning new things and exploring different areas. I'm enthusiastic in what I do and committed to helping teams grow through mentorship, sharing ideas, and solving problems. Working with me means leveraging technology to simplify complex problems into easy solutions.
+
 
 <div id="webaddress">
 <a href="francosioquim@gmail.com">francosioquim@gmail.com</a>
@@ -14,64 +15,60 @@ Customer delight and usability is what I love to focus on when building applicat
 
 ## Skills
 
-`Web`
- __Javascript__, __Typescript__, React, NextJS, Jamstack, NodeJS, GraphQL, AngularJS, VueJS, AWS, Serverless
+`Frontend`
+__Typescript__, React, NextJS, Jamstack, VueJS
 
+`Backend`
+NodeJS, GraphQL, Serverless Architecture, AWS
 
 `Others` 
- Hardware development, embedded systems, project management,
-IoT, Assembly, VHDL, C++, C#, Java, MySQL, PostgreSQL, Matlab
+Hardware Development, Embedded Systems, IoT, Assembly, VHDL, C++, C#, Java, MATLAB, Project Management
 
 ## Experience
 
-`2021 - Current`
-__Techinical Lead__, Equimentshare, USA
+`2020 - Current`
+__Techinical Lead__, Equimentshare, USA (Full Remote)
 
-- Designed the backend infrastructe using Serverless architecture
+- Architected and built a robust, serverless backend using the NestJS framework, significantly boosting our system's transparency and scalability.
 
-- Provided a highly efficient development environment and workflow for Frontend and Backend engineers so they can deploy to production on their first day
+- Developed a NextJS-based platform to facilitate seamless component-sharing and independent page development, ensuring an average lighthouse score of 90 for top-notch speed and accessibility.
 
-`2020 - 2021`
-__Frontend Lead__, Equimentshare, USA
+- Created a streamlined development ecosystem, emphasizing problem-solving, fostering an asynchronous remote work culture, and advocating for clear documentation and communication.
 
-- Architected and implemented a scalable web platform that loads applications with isolated dependencies on demand.
+- Advocated for a user-focused approach in our work, ensuring top-quality delivery of features and products.
 
-- Used NextJS to for client-side and server-side rendering with serverless authentication endpoints. Also added service-workers for a better offline experience and PWA.
+- Guided project planning and estimation at a high level, delivering predictability and forward vision.
 
-- Created a component, pattern, and utility libraries so applications can share UI and data layers.
-
-- Configured Gitlab pipelines to deploy multiple Frontend apps to Vercel.
-
-- Conducted Frontend workshops to learn latest React from scratch.
+- Offered continual support to engineers, fostering a culture of clear communication and idea exchange.
 
 `2019 - 2020`
 __Analyst Programmer (Contract)__, ANZ, Auckland
 
-- Improved Internet Banking CI/CD pipeline speed by 8-10 minutes.
+- Streamlined CI/CD pipelines, slashing execution time by 8-10 minutes.
 
-- Responsible for client-side app security for Internet Banking.
+- Oversaw client-side app security for Internet Banking, ensuring data protection and safety.
 
 - Worked on accessibility to make applications compatible with screen readers and compliant with WCAG 2.0.
 
 `2016 - 2019`
 __Senior Frontend Developer/Project Tech Lead__, Roam Ltd., Auckland
 
-- Responsible for sharing best practices, recommending technologies and frameworks, and mentorship for the Frontend practice.
+- Steered the Frontend practice, sharing best practices, recommending technologies, and providing mentorship.
 
-- Created project boilerplates with built-in features for routing, state management, theming, and CI/CD configurations.
+- Developed project boilerplates with integrated features for routing, state management, theming, and CI/CD configurations.
 
 - Architected a backend solution for a rewards system and implemented it using Typescript, a NodeJS framework, and PostgresSQL.
 
-- Created an end-to-end process to covert UI design into testable API endpoints, achieve seamless transition between mocking and actual data, and maintains great developer experience.
+- Created a process to convert UI designs into testable API endpoints, streamlining data transition and enhancing developer experience.
 
 - Implemented a prototype project using LoraWAN to display sensor data on a web app through an IoT service
 
 `2015 - 2016`
 __Web Developer (Part-time)__, Agora Ltd., Auckland
 
-- Extended and modified the existing Magento platform to support multi-store functionalities.
+- Expanded existing Magento platform capabilities, enabling multi-store functionalities.
 
-- Responsible for setting up analytics and tracking user journey for each store and provide actionable insights to customers.
+- Set up analytics and tracked user journeys for each store, producing actionable insights for customers.
 
 `2013 - 2015`
 __Team Lead/Senior Web Developer__, Synacy Inc., Cebu City, Philippines
