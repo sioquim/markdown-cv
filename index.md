@@ -1,85 +1,131 @@
 ---
-layout: default
+layout: cv
+title: Franco Sioquim
 ---
+# Franco D. Sioquim
 
-Tired of using LaTeX to make your CV look pretty? Can't remember how to set margins in your TeX file? Refusing to compromise and "just use Word"?
+I'm a skilled software engineer who loves creating user-friendly experiences that customers really enjoy. My career began in electronics engineering and over the years, I've grown into a versatile role in software development. I'm always learning new things and exploring different areas. I'm enthusiastic in what I do and committed to helping teams grow through mentorship, sharing ideas, and solving problems. Working with me means leveraging technology to simplify complex problems into easy solutions.
 
-[markdown-cv](http://elipapa.github.io/markdown-cv/) is a simple template to list all your accomplishments in a readable Markdown file. It uses CSS to style your text into a stylish web page. It can also be printed as PDF.
 
-### what does that mean?
-
-Write your CV like this...
-
-<img src="img/mdown.png" style="width: 60%; -webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);" >
-
-and use [jekyll](https://jekyllrb.com/) or [github pages](https://pages.github.com/) to make it look like this..
-
-<img src="img/output.png" style="width: 60%; -webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);" >
+<div id="webaddress">
+<a href="francosioquim@gmail.com">francosioquim@gmail.com</a>
+</div>
 
 
 
-## Usage
+## Skills
 
-To start, simply [fork the markdown-cv repo](https://github.com/elipapa/markdown-cv)
+`Frontend`
+__Typescript__, React, NextJS, Jamstack, VueJS
 
-![](https://help.github.com/assets/images/help/repository/fork_button.jpg)
+`Backend`
+NodeJS, GraphQL, Serverless Architecture, AWS
 
-and then [edit directly in github](https://help.github.com/articles/editing-files-in-your-repository/) the `index.md` file
+`Others` 
+Hardware Development, Embedded Systems, IoT, Assembly, VHDL, C++, C#, Java, MATLAB, Project Management
 
-![](https://help.github.com/assets/images/help/repository/edit-file-edit-button.png)
+## Experience
 
-adding your skills, jobs and education.
+`2020 - Current`
+__Techinical Lead__, Equimentshare, USA (Full Remote)
 
-![](https://help.github.com/assets/images/help/repository/edit-readme-light.png)
+- Architected and built a robust, serverless backend using the NestJS framework, significantly boosting our system's transparency and scalability.
 
-To transform your plain text CV into a beautiful looking HTML page and share it you then have two options:
+- Developed a NextJS-based platform to facilitate seamless component-sharing and independent page development, ensuring an average lighthouse score of 90 for top-notch speed and accessibility.
 
-### 1) Using Github Pages to publish it online
+- Created a streamlined development ecosystem, emphasizing problem-solving, fostering an asynchronous remote work culture, and advocating for clear documentation and communication.
 
-1. Delete the existing `gh-pages` branch from your fork. It will only contain this webpage. You can either use git or [the github web interface](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/#deleting-a-branch)
-2. Create a new branch called `gh-pages` (which will then be a copy of master)
-3. Head to *yourusername*.github.io/markdown-cv to see your CV live.
+- Advocated for a user-focused approach in our work, ensuring top-quality delivery of features and products.
 
-Any change you want to make to your CV from then on would have to be done on the `gh-pages` branch and will be immediately rendered by Github Pages.
+- Guided project planning and estimation at a high level, delivering predictability and forward vision.
 
-### 2) Build it locally
-1. [install jekyll](https://jekyllrb.com/docs/installation/) on your computer. `gem install jekyll` will do for most users.
-2. Clone your fork on your computer
-3. Type `jekyll serve` and you'll be able to see your CV on your local host (the default address is http://localhost:4000).
-4. You can edit the `index.md` file and see changes live in your browser.
+- Offered continual support to engineers, fostering a culture of clear communication and idea exchange.
 
-## How do I print the PDF?
-Whether you used Github Pages or a local installation of Jekyll, to print a PDF just press *Print* in your browser. Print specific [CSS media queries](http://www.joshuawinn.com/css-print-media-query/) will take care of the styling.
+`2019 - 2020`
+__Analyst Programmer (Contract)__, ANZ, Auckland
 
-## is this the only style available?
+- Streamlined CI/CD pipelines, slashing execution time by 8-10 minutes.
 
-The included CSS renders your CV in different styles:
+- Oversaw client-side app security for Internet Banking, ensuring data protection and safety.
 
-- `kjhealy` the original default, inspired by [kjhealy's vita
-template](https://github.com/kjhealy/kjh-vita)
+- Worked on accessibility to make applications compatible with screen readers and compliant with WCAG 2.0.
 
-<img src="img/styles/kjhealy.png" style="width: 60%; -webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);" >
+`2016 - 2019`
+__Senior Frontend Developer/Project Tech Lead__, Roam Ltd., Auckland
 
-- `davewhipp` is a tweaked version of `kjhealy`, with bigger fonts and dates
-  right aligned, authored by [David Whipp](https://davewhipp.github.io/markdown-cv/)
+- Steered the Frontend practice, sharing best practices, recommending technologies, and providing mentorship.
 
-<img src="img/styles/davewhipp.png" style="width: 60%; -webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);" >
+- Developed project boilerplates with integrated features for routing, state management, theming, and CI/CD configurations.
 
-To change the default style, one needs to simply change `site` the variable in the
-`_config.yml` file.
+- Architected a backend solution for a rewards system and implemented it using Typescript, a NodeJS framework, and PostgresSQL.
 
-Any other styling is possible. More CSS style contributions and forks are welcome!
+- Created a process to convert UI designs into testable API endpoints, streamlining data transition and enhancing developer experience.
+
+- Implemented a prototype project using LoraWAN to display sensor data on a web app through an IoT service
+
+`2015 - 2016`
+__Web Developer (Part-time)__, Agora Ltd., Auckland
+
+- Expanded existing Magento platform capabilities, enabling multi-store functionalities.
+
+- Set up analytics and tracked user journeys for each store, producing actionable insights for customers.
+
+`2013 - 2015`
+__Team Lead/Senior Web Developer__, Synacy Inc., Cebu City, Philippines
+
+- Brainstormed with product owners to come up with a design using modern web technologies.
+
+- Managed a team of developers, designers, and copywriter to build and maintain websites with in-house WordPress plugins and themes. Responsible for HR tasks such as hiring and team reviews.
+
+- Developed a web app using AngularJS to manage pluggable services and dashboard with personalised branding options.
+
+`2012 - 2013`
+__Senior Web Developer/Manager__, Sprasia Inc. (renamed to Sprobe Inc.), Cebu City, Philippines
+
+- Led and mentored teams of junior developers to build applications for the Japanese market.
+
+- Architected multilingual applications using PHP frameworks and AngualarJS
+
+- Responsible for project cost estimates, reporting, documentation, and creating test plans.
+
+`2010 - 2012`
+__Hardware Development Engineer__, NCR Corporation, Cebu City, Philippines
+
+- Create schematic designs and PCB layouts for custom-built devices to test prototype products.
+
+- Wrote firmware for an LCD display using Assembly and C.
+
+- Ran a workshop to help a team learn FPGA and VHDL from scratch.
+
+`2011 - 2013`
+__Freelance__, Variety of companies
+
+- Design ROV control and sensor systems
+
+- Created specification documents for telemetry, motor controller, and sensor circuites.
+
+- Developed and maintained WordPress and Magento websites.
 
 
+## Education
 
-### Author
+`2015`
+__Postgraduate Diploma in Information Technology__, Whitireia Community Poly-
+technic, Auckland, New Zealand. *Awarded as Top Scholar*
 
-Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[GitHub](http://github.com/elipapa)/[website](https://elipapa.github.io)).
+`2006 - 2010`
+__BS Computer Engineering__, University of San Carlos, Cebu, Philippines. *Major in Digital Systems Design*
 
-![Eliseo Papa](https://s.gravatar.com/avatar/eae1f0c01afda2bed9ce9cb88f6873f6?s=100)
+## Publications
 
-### License
 
-[MIT License](https://github.com/elipapa/markdown-cv/blob/master/LICENSE)
+`2015`
+__Dictionary attack on Wordpress: Security and forensic analysis__ , IEEE
 
-<a href="https://github.com/elipapa/markdown-cv" class="github-corner"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>
+`2010`
+__Code 128 Barcode Reader Implemented on Field Programmable Gate Array__, ICEIC
+
+
+## References
+
+__References are available upon request__
