@@ -4,7 +4,7 @@ title: Franco Sioquim
 ---
 # Franco D. Sioquim
 
-I'm a skilled software engineer who loves creating user-friendly experiences that customers really enjoy. My career began in electronics engineering and over the years, I've grown into a versatile role in software development. I'm always learning new things and exploring different areas. I'm enthusiastic in what I do and committed to helping teams grow through mentorship, sharing ideas, and solving problems. Working with me means leveraging technology to simplify complex problems into easy solutions.
+I'm an experienced software engineer passionate about creating user-friendly experiences that customers genuinely enjoy. My career started in electronics engineering, and over the years, it has evolved into a dynamic role in software development, always learning and exploring new things. I'm highly motivated and committed to helping my teams grow through mentorship, idea sharing, and problem-solving. Working with me means leveraging technology to simplify complex problems into easy solutions.
 
 
 <div id="webaddress">
