@@ -4,8 +4,7 @@ title: Franco Sioquim
 ---
 # Franco D. Sioquim
 
-I'm an experienced software engineer passionate about creating user-friendly AI-powered experiences that customers genuinely enjoy. My career began in electronics engineering and has evolved into a dynamic role in software development. I'm highly motivated and committed to helping my teams grow through mentorship, idea sharing, and problem-solving. Working with me means leveraging technology to simplify complex problems into easy solutions.
-
+I have extensive experience in software engineering, specializing in TypeScript, React (Next.js), Node.js, and serverless architecture. I have worked with two successful YCombinator-backed companies and other startups, contributing to their growth and solving complex problems. I have helped teams grow while diving into coding on multiple projects and wearing many hats. I am excited about the opportunity to bring my expertise to your team and make a meaningful impact.
 
 <div id="webaddress">
 <a href="francosioquim@gmail.com">francosioquim@gmail.com</a>
@@ -21,53 +20,50 @@ __Typescript__, NextJS, Supabase, NodeJS, Frontend Engineering, Serverless Archi
 Hardware Development, Embedded Systems, IoT, Assembly, UX Design, Project Management
 
 ## Experience
+`2024 - Current`
+__Founding Engineer__, Vapi.ai, USA (Full Remote)
+- Developed features around voice conversational AI using TypeScript, Node.js, and React.
+-  Oversaw the front-end tech stack and implemented workflows to enhance user interactions.
 
 `2023 - 2024`
 __Principal Engineer__, Transparent Maintenance, USA (Full Remote)
 
-- Designed and developed an AI-powered property management platform using technologies like Supabase, Windmill.dev, Next.js, and OpenAI
+- Designed and built an AI-powered property management platform with React (Next.js), Deno, Supabase and OpenAI.
 
-- Created an AI-powered property management system to automate landlord workflows for a hands-free management experience.
+- Automated landlord workflows for a hands-free management experience.
 
-- Integrated the existing property maintenance platform with the new property management system using a seamless event driven approach
-
-- Collaborated closely with the CEO to align engineering efforts with business goals and strategic objectives.
-
-- Managed internal tasks, including data migrations, and evaluated build vs. buy decisions.
+- Integrated existing platforms using a seamless event-driven approach.
 
 `2024 - Current`
-__CTO__, Elab, NZ (Full Remote)
+__Principal Engineer__, Elab, NZ (Full Remote)
 
 
-- Enabled a leading NZ recruitment agency to deliver high-quality, time-saving job posting ads through AI infrastructure and integration.
+- Enabled a leading NZ recruitment agency to deliver high-quality, time-saving job postings through AI integration.
 
-- Developed and integrated scalable infrastructure focused on delivering an AI-powered user experience
-
-- Integrated and utilized AI models from OpenAI and Anthropic, tailoring solutions to meet specific customer needs and enhance user experiences.
+- Developed scalable infrastructure focused on delivering an AI-powered user experience.
 
 `2020 - 2023`
 __Techinical Lead__, Equimentshare, USA (Full Remote)
 
-- Architected and built a robust, serverless backend using the NestJS framework, significantly boosting our system's transparency and scalability.
+- Architected a robust, serverless backend using NestJS, enhancing system transparency and scalability.
 
-- Developed a NextJS-based platform to facilitate seamless component-sharing and independent page development, ensuring a user experience score and accessibility.
+- Built a Next.js platform for seamless component sharing and independent page development.
 
-- Created a streamlined development ecosystem, emphasizing problem-solving, fostering an asynchronous remote work culture, and advocating for clear documentation and communication.
+- Emphasized problem-solving and fostered an asynchronous remote work culture with clear documentation.
 
-- Fostered an asynchronous remote work culture with a focus on clear documentation and communication.
+- Guided project planning for predictability and future vision.
 
-- Guided project planning and estimation at a high level, delivering predictability and forward vision.
-
-- Offered continual support to engineers, fostering a culture of clear communication and idea exchange.
+- Supported engineers by promoting clear communication and idea exchange.
 
 `2019 - 2020`
 __Analyst Programmer (Contract)__, ANZ, Auckland
 
-- Streamlined CI/CD pipelines, slashing execution time by 8-10 minutes.
+- Streamlined CI/CD pipelines, reducing execution time by up to 10 minutes.
 
-- Ensured data protection and safety for client-side app security in Internet Banking
+- Ensured data protection and client-side app security for Internet Banking.
 
-- Worked on accessibility to make applications compatible with screen readers and compliant with WCAG 2.0.
+- Enhanced application accessibility to comply with WCAG 2.0 standards.
+
 
 `2016 - 2019`
 __Senior Frontend Developer/Project Tech Lead__, Roam Ltd., Auckland
