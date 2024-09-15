@@ -22,7 +22,9 @@ Hardware Development, Embedded Systems, IoT, Assembly, UX Design, Project Manage
 ## Experience
 `2024 - Current`
 __Founding Engineer__, Vapi.ai, USA (Full Remote)
+
 - Developed features around voice conversational AI using TypeScript, Node.js, and React.
+
 -  Oversaw the front-end tech stack and implemented workflows to enhance user interactions.
 
 `2023 - 2024`
